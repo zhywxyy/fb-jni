@@ -1,0 +1,2 @@
+set solib-search-path /home/chenwf/share/android-ndk-r8b/samples/rk3288_jni/fb2-jni/obj/local/armeabi
+directory /home/chenwf/share/android-ndk-r8b/platforms/android-3/arch-arm/usr/include /home/chenwf/share/android-ndk-r8b/sources/cxx-stl/system/include /home/chenwf/share/android-ndk-r8b/samples/rk3288_jni/fb2-jni/jni
